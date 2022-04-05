@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WorkOut_StopWatch</string>
+    <string name="healthy_on_you">Healthy On You</string>
+    <string name="key_of_happiness_is_not_a_nlife_for_money">Key of happiness is not a\nlife for money</string>
+    <string name="Healthy_Body_nHealty_Life">Healthy Body \nHealty Life</string>
+    <string name="healthy_body_nhealthy_life">Healthy Body \nHealthy Life</string>
+    <string name="get_started">Get Started</string>
+    <string name="todo">TODO</string>
+    <string name="a_healthier_you">A Healthier You</string>
+    <string name="healthy_body_nhealthy">Healthy Body \nHealthy Life</string>
+    <string name="start_now">Start Now</string>
+    <string name="finish_excercise">Finish Excercise</string>
+</resources>

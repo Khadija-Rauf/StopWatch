@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ivOne" type="id" />
+    <item name="tvTwo" type="id" />
+    <item name="btnstart" type="id" />
+</resources>
